@@ -1,5 +1,7 @@
 ### Hehe 🤗
 
+- ✨ Check out my [stickers](https://github.com/egeres/stickers)
+
 <!--
 **egeres/egeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
